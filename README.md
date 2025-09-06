@@ -17,7 +17,7 @@ Future enhancements include **machine learning integration, actuator controls**,
 
 ---
 
-##  Repository Structure
+## 🗂️ Repository Structure
 
 /
 ├── Interface of app.jpeg # UI mockup of the controller app
@@ -25,7 +25,6 @@ Future enhancements include **machine learning integration, actuator controls**,
 ├── code.ino # Main Arduino sketch
 ├── videoLink.txt # Link to demo video
 └── README.md # This file — your project guide!
-
 
 
 ---
