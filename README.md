@@ -12,7 +12,8 @@ Control sensors remotely via a custom app!
 This project demonstrates how to **remotely read sensor data and control devices using Arduino**.  
 Future enhancements include **machine learning integration, actuator controls**, and more.  
 
-![Arduino Remote GIF](https://giphy.com/gifs/arduinocc-arduino-petscii-ailadi-mFDWuDppjQJjite6FS)
+![Arduino GIF](https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif)
+
 
 ---
 
